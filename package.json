@@ -1,0 +1,17 @@
+{
+  "name": "callback_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "build": "webpack"
+  },
+  "author": "Adam Dolah",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.0.1",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
