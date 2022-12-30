@@ -10,7 +10,7 @@
   "author": "Adam Dolah",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   },
